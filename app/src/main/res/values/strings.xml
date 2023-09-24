@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Lilik Nabila * Herdiyan Adam</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item> My World </item>
+        <item> My Lovely</item>
+        <item> My Honey</item>
+        <item> My Angel</item>
+        <item> My Heart</item>
+        <item> My Queen</item>
+        <item> My Beloved</item>
+        <item> My Flowers</item>
+        <item> My Sweet</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Berhentilah bertanya bagaimana menemukan pasangan yang baik. Mulailah menjadi orang yang baik dan terus lebih baik. Maka dengan sendirinya akan ditemukan </item>
+        <item>Mencintai berarti memutuskan secara mandiri untuk hidup dengan pasangan yang sejajar, dan menundukkan diri untuk pembentukan subjek baru, yakni kita.</item>
+        <item>Aku tidak minta bintang atau bulan kepadamu. Cukup temani aku selamanya di bawah cahayanya.</item>
+        <item>Aku tahu satu jam itu 60 menit dan satu menit itu 60 detik. Tapi aku tak pernah tahu jika satu detik tanpa kamu itu seperti seumur hidup.</item>
+        <item>Cinta terbaik adalah jenis yang membangkitkan jiwa; yang membuat kita meraih lebih banyak, yang menanam api di hati kita dan membawa kedamaian dalam pikiran kita </item>
+        <item>Masa depanku ada di tanganku, masa depanmu ada di tanganmu. Baru nanti masa depan kita di tangan kita berdua</item>
+        <item>Cinta tidak pernah mati sebagai kematian alami. Ia mati karena kebutaan, kesalahan, dan pengkhianatan</item>
+        <item>Kamu adalah jawaban untuk setiap doa yang aku panjatkan. Kamu adalah lagu, mimpi, bisikan, dan aku tidak tahu bagaimana aku bisa hidup tanpam</item>
+        <item>Asmara bukan hanya sekedar saling memandang satu sama lain. Tapi juga sama sama melihat ke satu arah yang sama</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+    </integer-array>
+
+
+
+</resources>
